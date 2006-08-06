@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Handling of BibTex Data
 Summary(pl):	%{_pearname} - obs³uga danych BibTex
 Name:		php-pear-%{_pearname}
-Version:	0.0.1
+Version:	0.2.0
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	0ab919aedf168f43aa9484d9c1a9a68d
+# Source0-md5:	f161c5f3b2a092a6ae5963abdf84761e
 URL:		http://pear.php.net/package/Structures_BibTex/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
