@@ -5,7 +5,7 @@
 %define		_pearname	Structures_BibTex
 
 Summary:	%{_pearname} - Handling of BibTex Data
-Summary(pl.UTF-8):   %{_pearname} - obsługa danych BibTex
+Summary(pl.UTF-8):	%{_pearname} - obsługa danych BibTex
 Name:		php-pear-%{_pearname}
 Version:	0.3.0
 Release:	1
