@@ -5,7 +5,7 @@
 %define		_pearname	Structures_BibTex
 
 Summary:	%{_pearname} - Handling of BibTex Data
-Summary(pl):	%{_pearname} - obs³uga danych BibTex
+Summary(pl.UTF-8):   %{_pearname} - obsÅ‚uga danych BibTex
 Name:		php-pear-%{_pearname}
 Version:	0.3.0
 Release:	1
@@ -26,8 +26,8 @@ Data.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Pakiet ten umo¿liwia konwersjê danych BibTex do tablicy PHP oraz z
+%description -l pl.UTF-8
+Pakiet ten umoÅ¼liwia konwersjÄ™ danych BibTex do tablicy PHP oraz z
 tablicy PHP do danych BibTex.
 
 Ta klasa ma w PEAR status: %{_status}.
