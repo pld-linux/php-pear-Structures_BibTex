@@ -5,7 +5,7 @@
 %define		_pearname	Structures_BibTex
 
 %define		subver	RC4
-%define		rel		1
+%define		rel		2
 Summary:	%{_pearname} - Handling of BibTex Data
 Summary(pl.UTF-8):	%{_pearname} - obsługa danych BibTex
 Name:		php-pear-%{_pearname}
