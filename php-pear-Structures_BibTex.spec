@@ -4,15 +4,16 @@
 %define		_status		beta
 %define		_pearname	Structures_BibTex
 
-%define		_rc	RC4
+%define		subver	RC4
+%define		rel		1
 Summary:	%{_pearname} - Handling of BibTex Data
 Summary(pl.UTF-8):	%{_pearname} - obsługa danych BibTex
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
-Release:	%{_rc}.1
+Release:	%{subver}.%{rel}
 License:	PHP License
 Group:		Development/Languages/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{_rc}.tgz
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{subver}.tgz
 # Source0-md5:	c49b42b4b38fd2c436420dd4c77ed5bd
 URL:		http://pear.php.net/package/Structures_BibTex/
 BuildRequires:	php-pear-PEAR
