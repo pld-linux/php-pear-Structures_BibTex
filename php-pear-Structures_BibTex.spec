@@ -2,7 +2,6 @@
 %define		subver	RC6
 %define		status		beta
 %define		pearname	Structures_BibTex
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Handling of BibTex Data
 Summary(pl.UTF-8):	%{pearname} - obsługa danych BibTex
 Name:		php-pear-%{pearname}
